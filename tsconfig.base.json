@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@nx-integrated-angular/app/feature": ["libs/app/feature/src/index.ts"],
       "@nx-integrated-angular/shared/ui": ["libs/shared/ui/src/index.ts"]
     }
   },
